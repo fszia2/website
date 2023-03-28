@@ -1,0 +1,61 @@
+h1 {
+    display:flex;
+    justify-content: center;
+    color:black;
+    font-size: 80px;
+    text-shadow: rgb(1, 10, 82) 1px 3px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h2 {
+    display:flex;
+    justify-content: left;
+    color:black ;
+    font-size: 40px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+* { 
+    background-color: rgb(240, 242, 255); 
+    font-size: 12px; 
+   }
+
+p {
+    display:flex;
+    justify-content:flex-end;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+img{
+    max-width:80%;
+}
+.image2{
+
+    display:flex;
+    justify-content: center;
+}
+.image1{
+
+    display:flex;
+    justify-content: center;
+}
+
+.image3{
+
+    display:flex;
+    justify-content: center;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#navbar a{
+color: brown;
+font-size: 30px;
+text-decoration: none;
+}
